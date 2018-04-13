@@ -2,9 +2,8 @@
 
 <p align="center"> 
 <img src="https://cdn.discordapp.com/attachments/434329757765599232/434349930124148736/Borealis.png" alt="Borealis">
-</p>
-
 Borealis is the new all-in-one Todo application built with user experience in mind.
+</p>
 
 ## Usage
 
