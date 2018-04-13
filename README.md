@@ -29,3 +29,4 @@ under the terms specified in the [LICENSE] file.
 
 Borealis is maintained by JustMaffie
 
+[Sign up for our Newsletter](http://eepurl.com/droXqH)
